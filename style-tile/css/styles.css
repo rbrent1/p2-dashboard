@@ -8,6 +8,37 @@ section {
 	margin: 20px 0;
 }
 
+body {
+	background: rgb(103, 103, 103);
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+
+h2 {
+	font-family: 'Alex Brush', cursive;
+	color: white;
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+
+em {
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+
+
+
 .color-1,
 .color-2,
 .color-3,
@@ -27,15 +58,30 @@ section {
 
 /* Style Tile for Amanda Zarzoza*/
 .color-1 {
-	background: orange;
+	background: rgb(31, 255, 221);
+	border: solid white 2px;
 }
 
 .color-2 {
-	background: green;
+	background: rgb(0, 236, 255);
+	border: solid white 2px;
 }
 
 .color-3 {
-	background: blue;
+	background:  rgb(250, 128, 128);
+	border: solid white 2px;
+}
+
+.pattern-1 {
+	background: url("../img/wild_flowers.png");
+}
+
+.pattern-2 {
+	background: url("../img/flowers.png");
+}
+
+.pattern-3 {
+	background: url("../img/tree_bark.png");
 }
 
 
