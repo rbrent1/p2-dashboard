@@ -37,6 +37,10 @@ em {
 	color: white;
 }
 
+h4 {
+	color: white;
+}
+
 
 
 .color-1,
@@ -74,14 +78,32 @@ em {
 
 .pattern-1 {
 	background: url("../img/wild_flowers.png");
+	border: solid white 2px;
 }
 
 .pattern-2 {
 	background: url("../img/flowers.png");
+	border: solid white 2px;
 }
 
 .pattern-3 {
 	background: url("../img/tree_bark.png");
+	border: solid white 2px;
+}
+
+.imagery-1 {
+	background: url("../img/purple_floral.png");
+	border: solid white 2px;
+}
+
+.imagery-2 {
+	background: url("../img/coral.png");
+	border: solid white 2px;
+}
+
+.imagery-3 {
+	background: url("../img/multi_floral.png");
+	border: solid white 2px;
 }
 
 
